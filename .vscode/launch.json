@@ -1,0 +1,56 @@
+{
+    // 使用 IntelliSense 了解相关属性。 
+    // 悬停以查看现有属性的描述。
+    // 欲了解更多信息，请访问: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch UdpSender1",
+            "request": "launch",
+            "mainClass": "UDP.UdpSender1",
+            "projectName": "webProgram_6b51b280"
+        },
+        {
+            "type": "java",
+            "name": "Launch UdpReciever1",
+            "request": "launch",
+            "mainClass": "UDP.UdpReciever1",
+            "projectName": "webProgram_6b51b280"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch TcpClient1",
+            "request": "launch",
+            "mainClass": "TcpClient1",
+            "projectName": "webProgram_6b51b280"
+        },
+        {
+            "type": "java",
+            "name": "Launch TcpServer1",
+            "request": "launch",
+            "mainClass": "TcpServer1",
+            "projectName": "webProgram_6b51b280"
+        },
+        {
+            "type": "java",
+            "name": "Launch TcpClient2",
+            "request": "launch",
+            "mainClass": "TcpClient2",
+            "projectName": "webProgram_6b51b280"
+        },
+        {
+            "type": "java",
+            "name": "Launch TcpServer2",
+            "request": "launch",
+            "mainClass": "TcpServer2",
+            "projectName": "webProgram_6b51b280"
+        }
+    ]
+}
