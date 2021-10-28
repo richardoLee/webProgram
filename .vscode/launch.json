@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch ChatStudent",
+            "request": "launch",
+            "mainClass": "chat.ChatStudent",
+            "projectName": "webProgram_6b51b280"
+        },
+        {
+            "type": "java",
+            "name": "Launch ChatTeacher",
+            "request": "launch",
+            "mainClass": "chat.ChatTeacher",
+            "projectName": "webProgram_6b51b280"
+        },
+        {
+            "type": "java",
             "name": "Launch UdpSender1",
             "request": "launch",
             "mainClass": "chat.UdpSender1",
