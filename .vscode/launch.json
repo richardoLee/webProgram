@@ -8,6 +8,20 @@
             "type": "java",
             "name": "Launch UdpSender1",
             "request": "launch",
+            "mainClass": "chat.UdpSender1",
+            "projectName": "webProgram_6b51b280"
+        },
+        {
+            "type": "java",
+            "name": "Launch UdpReciever1",
+            "request": "launch",
+            "mainClass": "chat.UdpReciever1",
+            "projectName": "webProgram_6b51b280"
+        },
+        {
+            "type": "java",
+            "name": "Launch UdpSender1",
+            "request": "launch",
             "mainClass": "UDP.UdpSender1",
             "projectName": "webProgram_6b51b280"
         },
